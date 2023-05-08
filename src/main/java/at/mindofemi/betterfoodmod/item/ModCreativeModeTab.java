@@ -7,7 +7,7 @@ public class ModCreativeModeTab {
     public static final CreativeModeTab BETTERFOOD_TAB = new CreativeModeTab("betterfoodtab") {
         @Override
         public ItemStack makeIcon() {
-            return null;
+            return new ItemStack(ModItems.CITRINE.get());
         }
     };
 
