@@ -17,6 +17,10 @@ public class ModItems {
     public static final RegistryObject<Item> BANANA = ITEMS.register("banana",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.BETTERFOOD_TAB).food(ModFoods.BANANA)));
 
+    public static final RegistryObject<Item> GREEN_LEAVES = ITEMS.register("green_leaves",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.BETTERFOOD_TAB).food(ModFoods.GREEN_LEAVES)));
+
+
 
 
 
