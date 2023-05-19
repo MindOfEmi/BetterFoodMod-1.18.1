@@ -1,7 +1,16 @@
 {
   "item.betterfoodmod.citrine": "Citrine",
   "item.betterfoodmod.banana": "Banana",
-  "item.betterfoodmod.green_leaves": "Green Leaves",
+  "item.betterfoodmod.green_leaves": "Green Leave",
+  "item.betterfoodmod.pommes": "Pommes",
+  "item.betterfoodmod.patty": "Patty",
+  "item.betterfoodmod.ham": "Ham",
+  "item.betterfoodmod.hamburger": "Hamburger",
+  "item.betterfoodmod.wrap": "Wrap",
+  "item.betterfoodmod.tortillia": "Tortillia",
+  "item.betterfoodmod.pizza": "Pizza",
+  "item.betterfoodmod.tomato": "Tomato",
+  "item.betterfoodmod.flour": "Flour",
 
   "itemGroup.betterfoodtab": "BetterFood Tab"
 }

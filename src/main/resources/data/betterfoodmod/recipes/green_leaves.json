@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "BCB",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:dried_kelp"
+    },
+    "B": {
+      "item": "minecraft:oak_leaves"
+    },
+    "C": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "result": {
+    "item": "betterfoodmod:green_leaves"
+  }
+}
