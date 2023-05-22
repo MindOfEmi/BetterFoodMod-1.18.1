@@ -15,5 +15,6 @@ public class ModFoods {
     public static final FoodProperties PIZZA = (new FoodProperties.Builder()).nutrition(10).saturationMod(0.8F).build();
     public static final FoodProperties TORTILLIA = (new FoodProperties.Builder()).nutrition(4).saturationMod(0.5F).build();
     public static final FoodProperties WRAP = (new FoodProperties.Builder()).nutrition(7).saturationMod(0.5F).build();
+    public static final FoodProperties RICEBOWL = (new FoodProperties.Builder()).nutrition(5).saturationMod(0.3f).build();
 
 }

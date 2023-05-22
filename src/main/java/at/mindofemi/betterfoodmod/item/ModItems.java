@@ -17,6 +17,9 @@ public class ModItems {
     public static final RegistryObject<Item> FLOUR = ITEMS.register("flour",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.BETTERFOOD_TAB)));
 
+    public static final RegistryObject<Item> RICE = ITEMS.register("rice",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.BETTERFOOD_TAB)));
+
     public static final RegistryObject<Item> BANANA = ITEMS.register("banana",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.BETTERFOOD_TAB).food(ModFoods.BANANA)));
 
@@ -46,6 +49,9 @@ public class ModItems {
 
     public static final RegistryObject<Item> WRAP = ITEMS.register("wrap",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.BETTERFOOD_TAB).food(ModFoods.WRAP)));
+
+    public static final RegistryObject<Item> RICEBOWL = ITEMS.register("ricebowl",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.BETTERFOOD_TAB).food(ModFoods.RICEBOWL)));
 
 
 

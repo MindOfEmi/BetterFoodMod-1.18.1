@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    [
+      {
+        "item": "betterfoodmod:rice"
+      },
+      {
+        "item": "betterfoodmod:rice"
+      },
+      {
+        "item": "betterfoodmod:rice"
+      }
+    ]
+  ],
+  "result": {
+    "item": "betterfoodmod:ricebowl"
+  }
+}

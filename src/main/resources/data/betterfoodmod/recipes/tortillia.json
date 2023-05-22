@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    [
+      {
+        "item": "betterfoodmod:flour"
+      },
+      {
+        "item": "betterfoodmod:flour"
+      },
+      {
+        "item": "betterfoodmod:flour"
+      },
+      {
+        "item": "betterfoodmod:flour"
+      }
+    ]
+  ],
+  "result": {
+    "item": "betterfoodmod:tortillia"
+  }
+}

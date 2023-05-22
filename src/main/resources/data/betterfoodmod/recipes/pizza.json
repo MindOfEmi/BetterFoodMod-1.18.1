@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    [
+      {
+        "item": "betterfoodmod:tomato"
+      },
+      {
+        "item": "betterfoodmod:tomato"
+      }
+    ],
+    [
+      {
+        "item": "betterfoodmod:flour"
+      },
+      {
+        "item": "betterfoodmod:flour"
+      },
+      {
+        "item": "betterfoodmod:flour"
+      },
+      {
+        "item": "betterfoodmod:flour"
+      }
+    ]
+  ],
+  "result": {
+    "item": "betterfoodmod:pizza",
+    "count": 1
+  }
+}
